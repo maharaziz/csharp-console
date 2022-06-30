@@ -14,7 +14,7 @@ namespace Lesson
 
             Console.Write("Enter Your name: ");
             var name =  Console.ReadLine();
-            Console.WriteLine($"My name is: {name}");
+            Console.WriteLine($"My name: {name}");
 
             //int n = 20;
             //do
